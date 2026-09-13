@@ -27,6 +27,14 @@ I am a first-year PhD candidate at the [HKUST NLP Group](https://github.com/hkus
 - Hallucination in Vision-Language Models (VLM)
 - LLM Truthfulness and Interpretability
 
+## Skills
+
+- Natural Language Processing (NLP)
+- Machine Learning (ML)
+- LLM Reasoning and Reinforcement Learning
+- Vision-Language Models (VLM)
+- LLM Truthfulness and Interpretability
+
 ## Publications
 
 ### First-Author Publications
